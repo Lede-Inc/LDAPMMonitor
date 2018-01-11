@@ -3,8 +3,7 @@ source 'https://git.ms.netease.com/commonlibraryios/podspec.git'
 source 'https://git.ms.netease.com/preciousmetals/ldpmspecs.git'
 
 target 'LDAPMMonitor' do
-    pod 'Aspects', '~> 1.4'
-    pod 'FBRetainCycleDetector', '~> 0.2.0'
+    pod 'FBRetainCycleDetector', '~> 0.1.4'
     pod 'Reachability'
 end
 
