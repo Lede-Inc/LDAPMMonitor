@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LDAPMMonitor'
-  s.version          = '3.1.0'
+  s.version          = '0.5.1'
   s.summary          = 'LDAPMMonitor monitor your app performance'
 
   s.homepage         = 'https://github.com/Lede-Inc/LDAPMMonitor.git'
